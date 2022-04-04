@@ -9,6 +9,8 @@ R means refrigerated so refrigerated containers only can go there)
 
 For the part one we will use the python constraint libraries to create all the possible combinations of containers for a specific layout
 
-Remember to insert the parameters in this format: python CSPStowage.py <path> <mapa> <contenedores>
+Remember to insert the parameters in this format: python CSPStowage.py <path> <map> <containers>
   
 For the second part we will be using A* algorithm for a similar problem but this time the boat will have to transport the containers to their correct port and leave them there.
+
+Remember to call the program like this: ./ASTARStowage.sh <path> <map> <containers> <heuristics name>
