@@ -1,0 +1,6 @@
+1. Load (Container1, Location in boat: [0, 0], In: port0)
+2. Load (Container2, Location in boat: [1, 0], In: port0)
+3. Navigate (port0, port1)
+4. Deliver (Container2, port1)
+5. Navigate (port1, port2)
+6. Deliver (Container1, port2)
